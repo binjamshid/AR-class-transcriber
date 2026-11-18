@@ -304,4 +304,8 @@ echo "config.py" >> .gitignore
 
 ## License
 
-MIT
+Beginning with the revision that merges this license into the default branch, binjamshid licenses the original project software in that revision and subsequent versions carrying this notice under the [Binjamshid Public Fork License, Version 1.0](LICENSE). Separately licensed third-party material retains its own terms and notices.
+
+The [initial public revision (`7bf0712`)](https://github.com/binjamshid/AR-class-transcriber/blob/7bf07125fb5165f36a6f7f2376638d3b6fbe809a/README.md#license) was marked MIT. Rights already granted for that revision continue under their original terms, including permission under MIT for commercial use and private modifications.
+
+The new license prohibits commercial use by or on behalf of for-profit organizations. If you edit covered software, you must make the corresponding source of every modified version, including private and abandoned edits, publicly available under the same license within 30 calendar days of the edit or before first distribution or use by others as a service, whichever comes first. Section 4 sets out a limited exception for coordinated security fixes.
